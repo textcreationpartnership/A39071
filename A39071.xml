@@ -1,0 +1,328 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Explanation of the agreement of the 21. of Decemb. last betwixt His Majesty and the inhabitants of the county of Oxon., for provisions for His Majesties horses billited in this county.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39071</idno>
+            <idno type="STC">Wing E3883</idno>
+            <idno type="STC">ESTC R41381</idno>
+            <idno type="EEBO-CITATION">31355231</idno>
+            <idno type="OCLC">ocm 31355231</idno>
+            <idno type="VID">110357</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A39071)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110357)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1739:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Explanation of the agreement of the 21. of Decemb. last betwixt His Majesty and the inhabitants of the county of Oxon., for provisions for His Majesties horses billited in this county.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed, by His Majesties command by Leonard Lichfield ...,</publisher>
+                  <pubPlace>At Oxford :</pubPlace>
+                  <date>Ianuary 16. 1642 [i.e. 1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: stained and torn.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>England and Wales. --  Army --  Finance.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:110357:1"/>
+            <pb facs="tcp:110357:1" rendition="simple:additions"/>
+            <p>
+               <hi>AN</hi> EXPLANATION OF THE AGREEMENT Of the 21. of Decemb. laſt, BETWIXT <hi>HIS MAJESTY</hi> and the Inhabitants of the County of OXON, For Proviſions for His MAjESTIES <hi>Horſes Billited in this County.</hi>
+            </p>
+            <p>Printed, by His MAjESTIES Command, <hi>AT OXFORD, Ianuary</hi> 16.</p>
+            <p>By LEONARD LICHFIELD Printer <hi>to the Vniverſity.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:110357:2"/>
+            <pb n="1" facs="tcp:110357:2" rendition="simple:additions"/>
+            <head>
+               <date>JANUARY 11. 1642.</date> An Explanation of the Agreement of the <hi>21.</hi> of <hi>De<g ref="char:EOLhyphen"/>cember</hi> laſt, betwixt His <hi>MAjESTY</hi> and the In<g ref="char:EOLhyphen"/>habitants of the County of <hi>Oxford,</hi> for proviſions for His <hi>MAjESTIES</hi> Horſes billited in this County.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas it was deſired by His Majeſty, that the ſixe Regiments of Horſe con<g ref="char:EOLhyphen"/>teining eight and Twenty Troopes, quartered in this County for His Ma<g ref="char:EOLhyphen"/>jeſties ſervice, ſhould be provided for at the charge of the Inhabitants of this County, which charge be<g ref="char:EOLhyphen"/>ing caſt up after the rate of ſeven ſhillings the week for a Horſe, and three ſhillings ſix pence a week for a man, amounts to the ſumme of two and forty pounds a week for every Troop, the whole charge of the eight and Twenty Troopes a<g ref="char:EOLhyphen"/>mounting in all to the ſumme of Eleven hundred ſeventy and ſix pounds a week. The gentlemen and Free-holders of this County, who attended the Lords and others his Majeſties Commiſſioners at
+<pb n="2" facs="tcp:110357:3" rendition="simple:additions"/>
+               <hi>Christ-Church,</hi> did for their own parts, and for ſo much as concerned themſelves agree, and did be<g ref="char:EOLhyphen"/>leeve that thoſe who were abſent, would for their parts likewiſe agree to ſupply His Majeſty with the weekly Loane of the ſaid ſumme of Eleven hun<g ref="char:EOLhyphen"/>dred ſeventy and ſix pounds, for the uſes aforeſaid, in manner following, to be raiſed upon the whole County, as other publique payments are uſually made, <hi>viz.</hi>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell>
+                        <abbr>lib.</abbr>
+                     </cell>
+                     <cell>
+                        <abbr>s.</abbr>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The Hundred of <hi>Banbury</hi> weekly</cell>
+                     <cell>73</cell>
+                     <cell>10.</cell>
+                  </row>
+                  <row>
+                     <cell>The Hundred of <hi>Bloxam,</hi>
+                     </cell>
+                     <cell>73</cell>
+                     <cell>10.</cell>
+                  </row>
+                  <row>
+                     <cell>The Hundred of <hi>Poughley,</hi>
+                     </cell>
+                     <cell>147</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>The Hundred of <hi>Wootton,</hi>
+                     </cell>
+                     <cell>147</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>The Hundred of <hi>Chadtington,</hi>
+                     </cell>
+                     <cell>147</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>The Hundred of <hi>Bampton,</hi>
+                     </cell>
+                     <cell>147</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>The Hundred of <hi>Bullingdon,</hi>
+                     </cell>
+                     <cell>100</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>The Hundred of <hi>Thame,</hi>
+                     </cell>
+                     <cell>42</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>The Hundred of <hi>Dorcheſter,</hi>
+                     </cell>
+                     <cell>38</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>The Hundred of <hi>Lewkenor,</hi>
+                     </cell>
+                     <cell>50</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>The Hundred of <hi>Pirton,</hi>
+                     </cell>
+                     <cell>42</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>The halfe Hundred of <hi>Ewelme,</hi>
+                     </cell>
+                     <cell>80</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>The Hundred of <hi>Binfield,</hi>
+                     </cell>
+                     <cell>39</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>The Hundred of <hi>Langtree.</hi>
+                     </cell>
+                     <cell>35</cell>
+                     <cell>00.</cell>
+                  </row>
+                  <row>
+                     <cell>The Towne of <hi>Henly,</hi>
+                     </cell>
+                     <cell>15</cell>
+                     <cell>00.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Which ſeverall ſummes ſhall be ſubdivided by the high-Conſtables of every Hundred, upon the ſeverall Townſhips in the ſaid Hun<g ref="char:EOLhyphen"/>dreds, as is uſually done in other paiments, and ſhall be collected by <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Petty-Conſtables in their ſeverall Towneſhips, and Villages, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y them be paid over to the High-Conſtables, and by them to be paid <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o ſuch generall receivors as are hereafter named for that pur<g ref="char:EOLhyphen"/>poſe, <hi>viz.</hi>
+            </p>
+            <pb n="3" facs="tcp:110357:3" rendition="simple:additions"/>
+            <list>
+               <item>In the Hundreds of <hi>Banbury</hi> and <hi>Bloxam,</hi> to Sir <hi>Thomas Pope</hi> K<hi rend="sup">t</hi>.</item>
+               <item>In the Hundreds of <hi>Poughley</hi> and <hi>Wootton,</hi> to Sir <hi>Thomas Coghill</hi> K<hi rend="sup">t</hi>.</item>
+               <item>In the Hundred of <hi>Chadlington,</hi> to Sir <hi>William Walter</hi> Baroner.</item>
+               <item>In the Hundred of <hi>Bampton,</hi> to Sir <hi>Thomas Whoord</hi> K<hi rend="sup">t</hi>.</item>
+               <item>In <hi>Bullingdon</hi> Hundred, to <hi>Broom Whorwood</hi> Eſq;</item>
+               <item>In <hi>Thame</hi> Hundred, to <hi>Vincent Barrey</hi> Eſq;</item>
+               <item>In <hi>Dorcheſter</hi> Hundred, to <hi>Timothy Doylie</hi> Gent.</item>
+               <item>In the Hundreds of <hi>Lewknor</hi> and <hi>Pirton,</hi> to <hi>Iohn Chamberlaine</hi> Eſq;</item>
+               <item>In the Hundreds of <hi>Langtree,</hi> the halfe hundred of <hi>Ewelme,</hi> and the Towne of <hi>Henly</hi> upon <hi>Thames,</hi> to <hi>Henry Stephens</hi> Gent.</item>
+               <item>In <hi>Bynfield</hi> Hundred, to <hi>Humfrey Elmes</hi> Eſq;</item>
+            </list>
+            <p>From whom it is to be receaved for the purpoſes aforeſaid, by the Commanders or Officers of the Army hereafter named in manner following, <hi>viz.</hi>
+            </p>
+            <p>Sir <hi>Thomas Byron,</hi> or ſuch as ſhall be appointed thereunto by war<g ref="char:EOLhyphen"/>rant under his hand and ſeale, to receave for the ſix Troopes of the Princes Regiment weekly, two hundred fifty and two pounds; one hundred forty and ſeven pounds thereof to be paid him by the Recea<g ref="char:EOLhyphen"/>vor for the Hundreds of <hi>Banbury</hi> and <hi>Bloxam,</hi> and the reſidue being one hundred and five pounds to be paid by the Receavor for the Hun<g ref="char:EOLhyphen"/>dreds of <hi>Wootton</hi> and <hi>Poughley.</hi>
+            </p>
+            <p>The Earle of <hi>Carnarvan,</hi> or ſuch as he ſhall appoint, to receave for his five Troopes, and the Lord <hi>Wentworth's</hi> company of Dragoneers, the like Summe of two hundred fifty two pounds, one hundred eighty nine pounds thereof to be paid by the Receavor for the Hundreds of <hi>Wootton</hi> and <hi>Poughlie,</hi> and the remainder being ſixty three pounds to be paid by the Receavor of the Hundred of <hi>Chadlington.</hi>
+            </p>
+            <p>Sir <hi>Iohn Byron,</hi> or ſuch as he ſhall appoint, to receave the like ſumme of two hundred fifty two pounds for his ſixe Troopes, eighty foure pounds thereof to be paid him by the Receavor of <hi>Chadlington</hi> hun<g ref="char:EOLhyphen"/>dred, one hundred forty ſeaven pounds by the Receavor for the Hun<g ref="char:EOLhyphen"/>dred of <hi>Bampton,</hi> and the reſidue being Twenty one pound, to be paid by the Receavor for <hi>Bullingdon</hi> Hundred.</p>
+            <p>The Lord <hi>Andover,</hi> or ſuch as he ſhall appoint, to receive for his three Troopes the ſumme of 126.<abbr>l.</abbr> to be paid him by the Re<g ref="char:EOLhyphen"/>ceivour of the hundred of <hi>Langtree,</hi> the halfe hundred of <hi>Ewelme,</hi> and the Towne of <hi>Henley</hi> upon <hi>Thames.</hi>
+            </p>
+            <pb n="4" facs="tcp:110357:4" rendition="simple:additions"/>
+            <p>Colonell <hi>Gerard,</hi> or ſuch as he ſhall appoint, to receive for his three Troopes, the ſumme of one hundred twenty ſix pounds; ſea<g ref="char:EOLhyphen"/>venty nine pounds thereof to be paid him by the Receivour for <hi>Bul<g ref="char:EOLhyphen"/>lingdon</hi> hundred, thirty nine pounds by the Receivour for <hi>Binfeild</hi> hundred, and eight pounds by the Receivour of <hi>Dorcheſter</hi> hundred.</p>
+            <p>The Lord <hi>Digby,</hi> or ſuch as he ſhall appoint, to receive for his foure Troopes the ſumme of one hundred ſixty eight pounds, forty two pounds thereof to be paid him by the Receivour for the hundred of <hi>Thame,</hi> forty two pound more by the Receivour for the hundred of <hi>Pirton,</hi> fifty pounds by the Receivour for the hundred of <hi>Lewk<g ref="char:EOLhyphen"/>nor,</hi> thirty pounds by the Receivour of the hundred of <hi>Dorcheſter,</hi> and foure pounds by the Receivour of the hundred of <hi>Langtree.</hi>
+            </p>
+            <p>If any Inhabitant refuſe to pay his ratable proportion to this ſer<g ref="char:EOLhyphen"/>vice, the Petty-Conſtables are to returne the default to the high-Conſtables, and they to the Receivours in their ſeverall limits, who are to certifie the ſame to the Lords Commiſſioners, that ſuch courſe may be taken therein, as His Majeſties ſervice may receive no prejudice.</p>
+            <p>If any man deliver in proviſions, according to the rates hereafter ſet downe, to the Army, or have Horſes billeted with him, the Tickets of thoſe that receive ſuch proviſions, or that are quartered in ſuch houſes or places where they are furniſhed with ſuch proviſions, ſhall be eſteemed as ready mony; And if any particular man ſend in more proviſions, or billet more Horſes or men, then his proportion, it ſhall be made good to him out of the mony paid to that quarter, to which he ſends in his proviſion, or where he is charged with the billet.</p>
+            <p>
+               <table>
+                  <head>The Rates are agreed by Conſent to be thus.</head>
+                  <row>
+                     <cell>
+                        <hi>For Hay by the Todde,</hi>
+                     </cell>
+                     <cell>5<abbr>d</abbr>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>For Oates by the Buſhell.</hi>
+                     </cell>
+                     <cell>20<abbr>d</abbr>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>For Beanes by the Buſhell.</hi>
+                     </cell>
+                     <cell>2<abbr>ſ</abbr>
+                     </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>For Straw to make litter, by the load.</hi>
+                     </cell>
+                     <cell>6<abbr>ſ</abbr>
+                     </cell>
+                     <cell>8<abbr>d</abbr>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>Every man that paies his part of this weekly Loane, and of the
+<pb n="5" facs="tcp:110357:4"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Contribution of one thouſand eight hundred pounds a moneth, to <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ree from all other extraordinary payments whatſoever, and to en<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> his Horſes, Cattle, and other goods quietly, from being taken away, upon any pretence, and ſevere puniſhment to be inflicted on ſuch as ſhall offend therein.</p>
+            <p>If there be any Horſes or Dragoones already billeted, or hereaf<g ref="char:EOLhyphen"/>ter to be billeted in this County, more then the ſix Regiments before mentioned, His Majeſty is gratiouſly pleaſed to promiſe they ſhall be removed out of the County, into ſome other parts, or in caſe there be a neceſſity of their being in this County, no man that paies his proportion to this preſent Loane, and the Contribution, ſhall be compelled to billet ſuch Horſes, but upon payment of ready money.</p>
+            <p>If any alteration be made of the ſix Regiments, intended to be provided for by this Loane, and ſome of them be removed into other Counties, and others placed in their ſteads here, they who ſo come in (not exceeding the number of thoſe that goe out) ſhall be provided for, as the former were.</p>
+            <p>This Loane to beginne as upon the 21<hi rend="sup">th</hi> of <hi>December</hi> laſt, and all rules and directions hereby made for the time to come, are to be obſerved from the 21<hi rend="sup">th</hi> of <hi>December</hi> till this time reſpectively, and to continue three moneths from the ſaid 21<hi rend="sup">th</hi> day, unleſſe His Ma<g ref="char:EOLhyphen"/>jeſty pleaſe ſooner to withdraw His Army out of this County, to a place more commodious for it, or that in the meane time there be a ceſſation of Armes, and when either of thoſe ſhall happen, if any money remaine in the hands of the Petty-Conſtables, chief-Conſta<g ref="char:EOLhyphen"/>bles, or Receivours, they ſhall repay it proportionably to the ſeve<g ref="char:EOLhyphen"/>rall Townes from whence it was received.</p>
+            <p>That the ſecurity which His Majeſty ſhall pleaſe to give for the repayment of this money, ſhall be made to ſix or more of the Gentlemen, named herein to be Receivours of the ſad Loane, as men in that behalfe truſted for the whole County, in ſuch manner as Councell ſhall reaſonably adviſe. And it is humbly referred to His Majeſty to propound the ſecurity Himſelfe.</p>
+            <p>Laſtly, that this preſent Agreement may by His Majeſties Com<g ref="char:EOLhyphen"/>mand be ſpeedily publiſhed in Print, that the whole County may take the more publike notice thereof, and that the cheif-Conſtables,
+<pb n="6" facs="tcp:110357:5"/>without expecting any new warrant, may forthwith proceed to aſſeſſe and gather the arreares from the 21<hi rend="sup">th</hi> of <hi>December</hi> till this time, and ſo continue the payment of this weekly Loane to ſuch generall Receivours, as are by this Agreement nominated and ap<g ref="char:EOLhyphen"/>pointed for that purpoſe; Wherein it is expected that the high-Conſtables ſhall proceed with all expedition that may be, after the receipt of this Agreement ſigned by His Majeſties Com<g ref="char:EOLhyphen"/>miſſioners.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
